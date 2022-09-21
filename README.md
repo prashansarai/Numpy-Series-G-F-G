@@ -40,41 +40,30 @@ This repository is having all the codes used in Numpy Series by GeeksForGeeks.
     
 5.Array Sorting
 
-   Sorting Arrays
-   
-   Row-wise Sorting
-   
-   Column-wise Sorting
-   
-   Diff Sorting Algorithms
+    Sorting Arrays
+    Row-wise Sorting
+    Column-wise Sorting
+    Diff Sorting Algorith
    
    
 6.Arrays Slicing
 
-   Array Cropping
-   
-   Indexing
-   
-   Slicing
+    Array Cropping
+    Indexing
+    Slicing
    
    
 7.Array Merging
 
-   Concatenation
-   
-   VStack
-   
-   HStack
-   
-   VSplit
-   
-   HSplit
+    Concatenation
+    VStack
+    HStack
+    VSplit
+    HSplit
    
    
 8.Automating using Numpy
 
-   Elements Findind
-   
-   Frquency Counting
-   
-   Lists vs Numpy Array
+    Elements Findind
+    Frquency Counting
+    Lists vs Numpy Array
